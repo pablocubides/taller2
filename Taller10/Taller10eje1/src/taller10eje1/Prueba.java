@@ -18,6 +18,7 @@ class Profesor extends Persona {
     }
 }
 
+
 public class Prueba {
     public static void main(String[] args) {
         Persona Pr1 = new Persona();
