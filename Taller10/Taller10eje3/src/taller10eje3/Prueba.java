@@ -12,9 +12,8 @@ package taller10eje3;
         System.out.println("El Perro empezo a Moverse ");
      }
     }
-    
-
      
+
     public class Prueba {
     public static void main(String[] args) {
         Animal v1 = new Animal();
